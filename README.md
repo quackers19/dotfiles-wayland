@@ -19,6 +19,7 @@ hyprpaper-git
 Fuzzel
 Waybar
 Thunar
+swaybg
 
 Wll add screen shots later
 
