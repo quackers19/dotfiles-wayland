@@ -32,3 +32,4 @@ Notes about post-install tweaks
 - install reflector to sync pacman download mirrors
   - enable reflector.service so it syncs on boot
 - edit .desktop file for hyprland so you can passthrough enviroment varibles https://wiki.hyprland.org/Configuring/Environment-variables/
+- enable disk triming enable fstrim.timer
