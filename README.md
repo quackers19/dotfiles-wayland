@@ -25,9 +25,10 @@ Wll add screen shots later
 
 
 Notes about post-install tweaks
-- install breeze-gtk for theme then install and use lxapearance to switch
+- install breeze-gtk for theme
 - make sure to install pacman-contrib and enable paccache.timer this clear pacman cache every week
   - use systemctl enable paccache.timer
 - enable parallel downloads in pacman.conf
 - install reflector to sync pacman download mirrors
   - enable reflector.service so it syncs on boot
+- edit .desktop file for hyprland so you can passthrough enviroment varibles https://wiki.hyprland.org/Configuring/Environment-variables/
