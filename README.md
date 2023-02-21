@@ -7,19 +7,19 @@ All the dotfiles are in folder
 - Editor: nano
 - Bar: Waybar
 - Shell: zsh with powerline10k
-- Terminal: foot
+- Terminal: alacritty 
 - File manger: Thunar
-- Wallpaper manger: Hyprpaper
+- Wallpaper manger: swaybg
 
 
 List of packages that need to be installed
 dunst - notifcations
 polkit-kde-agent - auth
-hyprpaper-git
 Fuzzel
-Waybar
+Waybar-hyprland
 Thunar
 swaybg
+alacritty
 
 Wll add screen shots later
 
